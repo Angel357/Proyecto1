@@ -7,5 +7,5 @@ public class Proyecto1 {
        Principal p=new Principal();
       p.setVisible(true);
     }
-    
+    //hi
 }
